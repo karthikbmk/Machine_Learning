@@ -1,5 +1,5 @@
 # Machine_Learning
-Various Machine Learning Projects
+CS584 Assignments at IIT taught by Dr. Gady Agam.
 
 Estimated Timeline is January 2016 - May 2016. Algorithms on the below topics will be implemented 
 
